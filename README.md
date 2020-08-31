@@ -18,7 +18,6 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sass.svg" alt="Sass" width="35px" height="35px" align="left"
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prettier.svg" alt="Prettier" width="35px" height="35px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webpack.svg" alt="Webpack" width="35px" height="35px" align="left">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/gulp.svg" alt="Webpack" width="35px" height="35px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="35px" height="35px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" alt="GitHub" width="35px" height="35px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg" alt="Webstorm" width="35px" height="35px">
