@@ -32,4 +32,4 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 
 ---
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=cross-development)](https://github.com/cross-development/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=cross-development&row=1&column=1)](https://github.com/cross-development/github-profile-trophy)
