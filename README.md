@@ -20,8 +20,8 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webpack.svg" alt="Webpack" width="32px" height="32px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="32px" height="32px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" alt="GitHub" width="32px" height="32px" align="left">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg" alt="/visual-studio-code" width="32px" height="32px">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" align="left" alt="styled-components" width="32px" height="32px">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg" alt="/visual-studio-code" width="32px" height="32px">
 
 ---
 
