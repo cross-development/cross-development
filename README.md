@@ -30,9 +30,6 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 ---
 
 ![Cross's github stats](https://github-readme-stats.vercel.app/api?username=cross-development&show_icons=true&count_private=true)
-
----
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cross-development&layout=compact)
 
 ---
