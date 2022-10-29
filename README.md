@@ -15,9 +15,9 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" alt="NodeJS" width="30px" height="30px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg" alt="NestJs" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/express.svg" alt="ExpressJS" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg" alt="MongoDB" width="30px" height="30px" align="left">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/firebase.svg" alt="Firebase" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" alt="NPM" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sass.svg" alt="Sass" width="30px" height="30px" align="left"
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prettier.svg" alt="Prettier" width="30px" height="30px" align="left">
