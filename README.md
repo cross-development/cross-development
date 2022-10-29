@@ -10,7 +10,8 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 ### My stack and tools:
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="TypeScript" width="30px" height="30px" align="left">
-<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="React" width="30px" height="30px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="ReactJs" width="30px" height="30px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/f31807d0fcca18a2d2b498ad30da5c7b061c6049/logos/nextjs.svg" alt="NextJs" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" alt="Redux" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="30px" height="30px" align="left">
@@ -26,6 +27,15 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" alt="GitHub" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" align="left" alt="styled-components" width="30px" height="30px">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg" alt="/visual-studio-code" width="30px" height="30px">
+
+### Basic knowledge:
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C-sharp" width="30px" height="30px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dotnet" width="30px" height="30px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="Dart" width="30px" height="30px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/flutter.svg" alt="Flutter" width="30px" height="30px" align="left">
+<img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/angular-icon.svg" alt="Angular" width="30px" height="30px" align="left">
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" align="left" alt="PostgreSQL" width="30px" height="30px" />
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png" align="left" alt="MySQL" width="30px" height="30px" /><br />
 
 ---
 
