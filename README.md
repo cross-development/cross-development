@@ -7,7 +7,8 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 - 📫 How to reach me: derdavitaliy@gmail.com
 - ⚡ Fun fact: I love what I do - code, eat, sleep, repeat 😄
 
-### My stack and tools:
+### :hammer_and_wrench: My stack and tools:
+<div>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="TypeScript" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="ReactJs" width="30px" height="30px" align="left">
@@ -19,6 +20,9 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg" alt="NestJs" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/express.svg" alt="ExpressJS" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg" alt="MongoDB" width="30px" height="30px" align="left">
+</div>
+
+<div>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" alt="NPM" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sass.svg" alt="Sass" width="30px" height="30px" align="left" />
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prettier.svg" alt="Prettier" width="30px" height="30px" align="left">
@@ -27,8 +31,9 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/github-icon.svg" alt="GitHub" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/styled-components/styled-components.png" align="left" alt="styled-components" width="30px" height="30px">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/visual-studio-code.svg" alt="/visual-studio-code" width="30px" height="30px">
+</div>
 
-### Basic knowledge:
+### :microscope: Basic knowledge:
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C-sharp" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dotnet" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dart.svg" alt="Dart" width="30px" height="30px" align="left">
