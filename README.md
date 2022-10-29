@@ -21,7 +21,7 @@ I live in Kyiv, Ukraine. I want to find a dream job and do what I love.
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/express.svg" alt="ExpressJS" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/mongodb.svg" alt="MongoDB" width="30px" height="30px" align="left">
 </div>
-
+<br />
 <div>
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" alt="NPM" width="30px" height="30px" align="left">
 <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sass.svg" alt="Sass" width="30px" height="30px" align="left" />
