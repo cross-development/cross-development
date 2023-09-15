@@ -14,7 +14,7 @@
 
 ---
 
-<h2> 🚀 &nbsp;Some Skills and Tools I Have Used and Learned</h2>
+<h2> 🚀 &nbsp;Some Skills and Tools I Use and Learn</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="TypeScript" width="45" height="45" />&nbsp;
