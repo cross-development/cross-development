@@ -9,7 +9,7 @@
   <li> 🌱 &nbsp;I’m currently learning everything I can get my hands on</li>
   <li> 🤔 &nbsp;I’m looking for help with finding more time in a single day</li>
   <li> 📫 &nbsp;How to reach me: derdavitaliy@gmail.com</li>
-  <li> ⚡ &nbsp;Fun fact: I love what I do - code, eat, sleep, repeat 😄</li>
+  <li> ⚡ &nbsp;Fun fact: I love what I do - eat, code, sleep, repeat 😄</li>
 </ul>
 
 ---
