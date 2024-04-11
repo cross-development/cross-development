@@ -28,7 +28,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" awidth="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typeorm.svg" alt="TypeORM" width="45" height="45" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C-sharp" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dotnet" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Mui" width="45" height="45" />&nbsp;
