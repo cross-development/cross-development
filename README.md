@@ -20,6 +20,7 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="TypeScript" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="ReactJs" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="NextJs" width="45" height="45" />&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/angular-icon.svg" alt="Angular" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" alt="Redux" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="45" height="45" />&nbsp;
@@ -28,7 +29,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" awidth="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/prisma/prisma-original.svg" alt="Prisma" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C-sharp" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/dotnet.svg" alt="Dotnet" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/materialui/materialui-original.svg" alt="Mui" width="45" height="45" />&nbsp;
