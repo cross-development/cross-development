@@ -28,8 +28,8 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" alt="NodeJS" width="45" height="45" />&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nestjs.svg" alt="NestJs" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="45" height="45" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="NextJs" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" awidth="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="45" height="45" />&nbsp;
