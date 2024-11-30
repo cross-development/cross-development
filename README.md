@@ -16,10 +16,10 @@
 
 <h2> 🚀 &nbsp;Some Skills and Tools I Use and Learn</h2>
 <p align="left">
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C-sharp" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="Dotnet" width="45" height="45" />&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="45" height="45" />&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django-icon.svg" alt="Django" width="45" height="45" />&nbsp;
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="Blazor" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="TypeScript" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="ReactJs" width="45" height="45" />&nbsp;
@@ -27,6 +27,7 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/redux.svg" alt="Redux" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/html-5.svg" alt="HTML" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/css-3.svg" alt="CSS" width="45" height="45" />&nbsp;
+  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sass.svg" alt="Sass" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/nodejs-icon.svg" alt="NodeJS" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="ExpressJS" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-original.svg" alt="NextJs" width="45" height="45" />&nbsp;
@@ -39,7 +40,6 @@
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/main/logos/jest.svg" alt="Jest" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/npm.svg" alt="NPM" width="45" height="45" />&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/sass.svg" alt="Sass" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/prettier.svg" alt="Prettier" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/webpack.svg" alt="Webpack" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/git-icon.svg" alt="Git" width="45" height="45" />&nbsp;
