@@ -17,10 +17,10 @@
 <h2> 🚀 &nbsp;Some Skills and Tools I Use and Learn</h2>
 <p align="left">
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/python.svg" alt="Python" width="45" height="45" />&nbsp;
-  <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/django-icon.svg" alt="Django" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/c-sharp.svg" alt="C-sharp" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="Dotnet" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/blazor/blazor-original.svg" alt="Blazor" width="45" height="45" />&nbsp;
+  <img src="https://az-icons.com/export/icons/a39e7fd3307ff56cc26d5a64eec7bf3f.svg" alt="SignalR" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/javascript.svg" alt="JavaScript" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/typescript-icon.svg" alt="TypeScript" width="45" height="45" />&nbsp;
   <img src="https://raw.githubusercontent.com/gilbarbara/logos/master/logos/react.svg" alt="ReactJs" width="45" height="45" />&nbsp;
