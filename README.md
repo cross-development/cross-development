@@ -1,8 +1,8 @@
-
+![](https://komarev.com/ghpvc/?username=cross-development)
 
 
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
-<p>👋 &nbsp;Hi there! I'm Vitalii and I live in Ukraine. I want to find a dream job and do what I love.</p> 
+<p>👋 &nbsp;Hi there! I'm Vitalii and I live in Ukraine. I want to find a dream job and do what I love.</p>
 
 <ul>
   <li> 🔭 &nbsp;I’m currently working on a lot of different stuff</li>
